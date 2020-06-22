@@ -1,0 +1,2 @@
+# Text similarity and Function approximation
+The programming assignment that I had completed while taking Machine Learning and Data Analysis course on Coursera, which is taught by **MIPT** (PhysTech) and **Yandex**.
